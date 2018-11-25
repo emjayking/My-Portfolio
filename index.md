@@ -3,10 +3,10 @@ This portfolio is a collection of my best digital and modeling work, along with 
 
 ## This will include a collection of work done in the following areas:
 - digital artwork
-- robotic and drone construction/control
-- Python programs and applications
-- Artificial intelligence and predictive programming.
-- My certificates of completion in various different programming languages. 
-- Photos of my completed metal models.
+- [robotic and drone construction/control](/robotics]
+- [Python programs and applications](/python)
+- [Artificial intelligence and predictive programming.](/python)
+- [My certificates of completion in various different programming languages.](/CodeAvengers) 
+- [Photos of my completed metal models.](/models)
 
 It will continue to be updated as time progresses. 
