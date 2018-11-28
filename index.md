@@ -7,6 +7,6 @@ This portfolio is a collection of my best digital and modeling work, along with 
 - [Python programs and applications](/python/index.md)
 - [Artificial intelligence and predictive programming.](/python/index.md)
 - [My certificates of completion in various different programming languages.](/CodeAvengers/index.md)
-- [Photos of my completed metal models.](/models/index.d)
+- [Photos of my completed metal models.](/models/index.md)
 
 It will continue to be updated as time progresses.
