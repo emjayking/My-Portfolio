@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio is a collection of my best digital and modeling work, along with some videos and screen shots of projects I have worked on.
+This portfolio is a collection of my best digital and moddeling work, along with some videos and screen shots of projects I have worked on.
 
 ## This will include a collection of work done in the following areas:
 - [robotic and drone construction/control](/robotics/index.md)
