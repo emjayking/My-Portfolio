@@ -1,9 +1,10 @@
 # CodeAvengers
 
-Here are links to all my certificates of completetion for the website Code Avengers. This website is what we use in DIT to learn various coding languages, they are designed to work with the NCEA cirruculem.
+Here are links to all my certificates of completion for the website Code Avengers. This website is what we use in DIT to learn various coding languages, they are designed to work with the NCEA curriculum.
 
 [NCEA Level 1 Python](https://www.codeavengers.com/certificate.html?U2FsdGVkX18xDyQhihl%2FOCeTvks6JpUnebH7TzD4AlVC1EZdPTfUbcIcPzCj7eXRCePfGQ61LMxZuqEk0PKzySgOyYhq%2Fv2x7BX6uaIAwb710wpL2MgDgl63rwwVzAYLA8nNsctx21S0B49ejKDk%2FFpyOv5e9KvyYZBX8Pc4DlQ%3D)
-<img src="photos/Python1.png">
+
+![python level1](photos/Python1)
 
 
 [NCEA level 2 Python](https://www.codeavengers.com/certificate.html?U2FsdGVkX1%2F7YHr4nompqcWCD5yBL1IdLFgMs4mGYbO1zG95Rgj6YVsMZrJXRc8DoeXSJW4QeJF7Sk8wPUKViQryxXC%2FyI7CNdvZ1kyckfE0abaeGeFwGEjwKvRmbpxCxswun%2B4j7B3h8CuO7w9Gp%2BAqWmrF8WBAlkMEv3ntPwk%3D)
