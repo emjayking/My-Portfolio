@@ -5,6 +5,6 @@ This portfolio is a collection of my best digital and moddeling work, along with
 - [robotic and drone construction/control](/robotics/index.md)
 - [Python programs and applications](/python/index.md)
 - [My certificates of completion in various different programming languages.](/CodeAvengers/index.md)
-- [Photos of my completed metal models.](/models/index.md)
+- [Photos of my completed metal models and digital art.](/models/index.md)
 
 It will continue to be updated as time progresses.

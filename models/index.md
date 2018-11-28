@@ -1,7 +1,9 @@
 ### [Home](../index.md)
 
 These are [metal earth models](http://www.fascinations.com/metalearth) that I have built over the years.
-I feel this displays a talent and enthusiasm for modelling and tinkering.
+I feel this displays a talent and enthusiasm for modelling and tinkering. Also I have included a peice of digital artwork I did based on a blender tutorial. I am teaching myself to model in blender because I may want to pursue a career in digital art.
+
+# Models
 
 ## Big Ben
 ![Big Ben](photos/bigben.JPG)
@@ -35,3 +37,6 @@ I feel this displays a talent and enthusiasm for modelling and tinkering.
 
 ## Star Wars Rebel X-Wing
 ![x-wing](photos/xwing.JPG)
+
+# Digital Art
+![Donut Render](../blender/donutRender.png)
