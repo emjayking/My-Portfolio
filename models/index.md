@@ -1,4 +1,4 @@
-### [home](../index.md)
+### [Home](../index.md)
 
 These are [metal earth models](http://www.fascinations.com/metalearth) that I have built over the years.
 I feel this displays a talent and enthusiasm for modelling and tinkering.

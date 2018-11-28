@@ -1,4 +1,4 @@
-# Python Turtle - Spirograph - www.101computing.net/python-turtle-spirograph/
+# Python Turtle Based On: - Spirograph - www.101computing.net/python-turtle-spirograph/
 import turtle
 from math import cos, sin
 from time import sleep
