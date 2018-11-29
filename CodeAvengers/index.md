@@ -1,3 +1,5 @@
+### [Home](../index.md)
+
 # CodeAvengers
 
 Here are links to all my certificates of completion for the website Code Avengers. This website is what we use in DIT to learn various coding languages, they are designed to work with the NCEA curriculum.

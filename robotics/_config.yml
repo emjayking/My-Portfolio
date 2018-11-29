@@ -2,8 +2,7 @@ theme: jekyll-theme-cayman
 title: Robotics Work
 author: emjayking
 email: emjayking23@hotmail.co.nz
-description:
-  This is a portfolio of all my digital work
+description: This is a collection of all the robotics work I have done.
 github_username: emjayking
 
 show_excerpts: true

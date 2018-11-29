@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
 title: my port-folio
 author: emjayking
-email: emjayking23@hotmail.co.nz 
+email: emjayking23@hotmail.co.nz
 description:
-  This is a portfolio of all my digital work
+  These are certificates of completion for various coding languages.
 github_username: emjayking
 
 show_excerpts: true

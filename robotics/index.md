@@ -1,5 +1,6 @@
 ### [home](../index.md)
 
+# robotics
 
 This folder contains all the robotics work I have done. This will eventually include coding examples as well as photos of the robot and videos of it in progress.
 The robot is one we use for competitions in the Manawatu region, we won almost every competition we attended this year.
