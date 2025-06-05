@@ -1,10 +1,12 @@
-# Portfolio
-This portfolio is a collection of my best digital and moddeling work, along with some videos and screen shots of projects I have worked on.
 
-## This will include a collection of work done in the following areas:
-- [robotic and drone construction/control](/robotics/index.md)
-- [Python programs and applications](/python/index.md)
-- [My certificates of completion in various different programming languages.](/CodeAvengers/index.md)
-- [Photos of my completed metal models and digital art.](/models/index.md)
+# Information
 
-It will continue to be updated as time progresses.
+# Index
+- FYP Project
+- Coffee Machine
+- 3D Printed Plant Pots
+- Custom Keyboard
+- Rubiks Cube Solver
+
+[comment]: # an empty comment?
+
